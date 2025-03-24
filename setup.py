@@ -14,7 +14,7 @@ setup(
     description='Compressed Rich Text Format (RTF) compression and decompression package',
     long_description=compressed_rtf.__doc__.strip(),
     license='MIT',
-    keywords='compressed-rtf lzfu mela rtf',
+    keywords='compressed_rtf lzfu mela rtf',
     url='https://github.com/delimitry/compressed_rtf',
     zip_safe=False,
     classifiers=[
